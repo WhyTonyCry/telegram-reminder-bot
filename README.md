@@ -114,4 +114,5 @@ java -jar target/your-bot-name.jar
 ```
 ## ⭐ Telegram Reminder Bot helps you effortlessly manage personal reminders directly in Telegram, ensuring you never miss a task, regardless of your time zone!
 
-[![Views](https://komarev.com/ghpvc/?username=WhyTonyCry&color=blueviolet&style=for-the-badge&label=Views)]([https://github.com/WhyTonyCry](https://github.com/WhyTonyCry/telegram-reminder-bot))
+[![Repo Views](https://img.shields.io/badge/views-manual--count-blueviolet?style=for-the-badge)](https://github.com/WhyTonyCry/telegram-reminder-bot)
+
